@@ -9,7 +9,7 @@ AI의 도움을 받아 **앱을 끝까지 만들어서 굴리는 역량**(출시
 
 개인별 Learning Objectives는 각자 정한다 (같은 실험, 다른 배움 — 이것도 비교 포인트).
 
-### 엘레나 (디자이너) — 왜 AI로: 더 잘하는 기획을 하고 싶어서
+### 엘레나 (개발자, Claude) — 왜 AI로: 더 잘하는 기획을 하고 싶어서
 
 | Learning Objective | Keywords |
 |---|---|
@@ -18,7 +18,7 @@ AI의 도움을 받아 **앱을 끝까지 만들어서 굴리는 역량**(출시
 | 무엇을 기록할지 정해 트래킹을 설계하고, 데이터가 쌓이는 것 확인 | Tracking Plan, Firebase Analytics, AARRR |
 | 출시 후 리뷰·크래시·지표 근거로 업데이트 1회 이상 배포 | ASO, Crashlytics, Phased Release |
 
-### 서진 (개발자) — 작성 예정
+### 흰 (디자이너, GPT-sol) — 작성 예정
 
 | Learning Objective | Keywords |
 |---|---|
